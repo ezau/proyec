@@ -1,6 +1,6 @@
 <?php
 
-$host="127.13.98.130";
+$host="1127.13.98.130:3306";
 $usuario="adminvaJ9Jt2";
 $password="hUw7v2w7h38Q";
 $conectar=mysql_connect($host, $usuario, $password);
