@@ -1,7 +1,7 @@
 ﻿<?php 
-$host="127.5.250.130";
-$usuario="adminvxnFy9E";
-$password="_uR1uSnCXlFV";
+$host="127.13.98.130";
+$usuario="adminvaJ9Jt2";
+$password="hUw7v2w7h38Q";
 $conectar=mysql_connect($host, $usuario, $password);
 mysql_select_db("votacion",$conectar);
 $cont = 0;

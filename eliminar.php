@@ -3,9 +3,9 @@
 
 /* PARTE 1: AL INICIO SE EXTRAEN TODAS LAS FILAS */
 //Necesitamos establecer una conexión con la base de datos.
-$host="127.5.250.130";
-$usuario="adminvxnFy9E";
-$password="_uR1uSnCXlFV";
+$host="127.13.98.130";
+$usuario="adminvaJ9Jt2";
+$password="hUw7v2w7h38Q";
 $mysql_database = "votacion";
 
 //Datos de conexión

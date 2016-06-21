@@ -5,7 +5,7 @@
 **Nombre de usuario: root.
 **Contraseña de usuario: root.
 **Si la conexion fallara mandamos un msj 'ha fallado la conexion'**/
-mysql_connect('127.5.250.130','adminvxnFy9E','_uR1uSnCXlFV')or die ('Ha fallado la conexión: '.mysql_error());
+mysql_connect('127.13.98.130','adminvaJ9Jt2','hUw7v2w7h38Q')or die ('Ha fallado la conexión: '.mysql_error());
 
 /*Luego hacemos la conexión a la base de datos. 
 **De igual manera mandamos un msj si hay algun error*/
